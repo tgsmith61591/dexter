@@ -1,3 +1,5 @@
+import sys
+
 from giovanni.cli import main
 
 sys.exit(main.main())
